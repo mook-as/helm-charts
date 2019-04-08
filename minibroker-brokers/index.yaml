@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   mariadb:
   - appVersion: 10.1.34
-    created: 2019-04-08T14:55:04.508708824-07:00
+    created: 2019-04-08T15:31:03.777735224-07:00
     description: Fast, reliable, scalable, and easy to use open-source relational
       database system. MariaDB Server is intended for mission-critical, heavy-load
       production systems as well as for embedding into mass-deployed software. Highly
@@ -25,11 +25,11 @@ entries:
     - https://github.com/bitnami/bitnami-docker-mariadb
     - https://github.com/prometheus/mysqld_exporter
     urls:
-    - mariadb/mariadb-4.3.0.tgz
+    - https://mook-as.github.io/helm-charts/minibroker-brokers/mariadb/mariadb-4.3.0.tgz
     version: 4.3.0
   mongodb:
   - appVersion: 3.6.6
-    created: 2019-04-08T14:55:04.510332363-07:00
+    created: 2019-04-08T15:31:03.778607051-07:00
     description: NoSQL document-oriented database that stores JSON-like documents
       with dynamic schemas, simplifying the integration of data in content-driven
       applications.
@@ -51,6 +51,6 @@ entries:
     sources:
     - https://github.com/bitnami/bitnami-docker-mongodb
     urls:
-    - mongodb/mongodb-4.0.2.tgz
+    - https://mook-as.github.io/helm-charts/minibroker-brokers/mongodb/mongodb-4.0.2.tgz
     version: 4.0.2.1
-generated: 2019-04-08T14:55:04.507643961-07:00
+generated: 2019-04-08T15:31:03.776780738-07:00
