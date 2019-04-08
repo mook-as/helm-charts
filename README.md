@@ -1,2 +1,2 @@
 # helm-charts
-Miscellaneous helm charts for development purposes
+This repository contains miscellaneous helm charts for development purposes.
