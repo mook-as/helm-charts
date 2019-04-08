@@ -52,5 +52,5 @@ entries:
     - https://github.com/bitnami/bitnami-docker-mongodb
     urls:
     - https://mook-as.github.io/helm-charts/minibroker-brokers/mongodb/mongodb-4.0.2.tgz
-    version: 4.0.2.1
+    version: 4.0.2
 generated: 2019-04-08T15:31:03.776780738-07:00
