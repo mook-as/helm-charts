@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   mariadb:
   - appVersion: 10.1.34
-    created: 2019-04-09T15:08:19.229928152-07:00
+    created: 2019-04-10T17:20:38.161124263-07:00
     description: Fast, reliable, scalable, and easy to use open-source relational
       database system. MariaDB Server is intended for mission-critical, heavy-load
       production systems as well as for embedding into mass-deployed software. Highly
@@ -28,13 +28,12 @@ entries:
     - https://mook-as.github.io/helm-charts/minibroker-brokers/mariadb/mariadb-4.3.0.tgz
     version: 4.3.0
   mongodb:
-  - apiVersion: v1
-    appVersion: 4.0.8
-    created: 2019-04-09T15:08:19.231175239-07:00
+  - appVersion: 4.0.3
+    created: 2019-04-10T17:20:38.16226308-07:00
     description: NoSQL document-oriented database that stores JSON-like documents
       with dynamic schemas, simplifying the integration of data in content-driven
       applications.
-    digest: 9c6cb98ffabef774de9704a96a11dc9e00cc648269013f99ea7ce036e829c7c5
+    digest: d0470375a54dc71eaf3dba223d91b142349178ddfd2a066adbd7d09f5d5f037b
     engine: gotpl
     home: https://mongodb.org
     icon: https://bitnami.com/assets/stacks/mongodb/img/mongodb-stack-220x234.png
@@ -52,6 +51,6 @@ entries:
     sources:
     - https://github.com/bitnami/bitnami-docker-mongodb
     urls:
-    - https://mook-as.github.io/helm-charts/minibroker-brokers/mongodb/mongodb-5.16.0.tgz
-    version: 5.16.0
-generated: 2019-04-09T15:08:19.228983798-07:00
+    - https://mook-as.github.io/helm-charts/minibroker-brokers/mongodb/mongodb-5.3.0.tgz
+    version: 5.3.0
+generated: 2019-04-10T17:20:38.159800645-07:00
